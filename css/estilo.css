@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0%;
+
+}
+.pc{ 
+    display: flex;
+    width: 300px;
+    height: 450px;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(192, 151, 231);
+    font-size: 30px;
+    margin: 20px;
+    padding: 50px;
+ }
